@@ -1,0 +1,11 @@
+Create a high-resolution, monochrome illustration featuring a [SUBJECT] rendered in the visual language of ancient ornamental glyphs. The composition should emulate the aesthetic of carved stone or engraved ink, using bold, organic linework with slight irregularities that suggest hand-drawn precision.
+
+The layout follows a grid-based system, arranged in even horizontal rows with balanced vertical spacing. Each cell should contain a unique glyph-like interpretation of the [SUBJECT], centered within a rectangular frame and surrounded by ample negative space to highlight modularity and rhythm.
+
+The lines must be clean yet textural—uniform in weight but with soft curves and subtle tapering at the ends. Avoid gradients or shading; rely strictly on black ink-like contours over a white background to simulate the look of etched or engraved surfaces.
+
+Maintain a dense visual structure within each unit: embed sub-elements, abstract forms, and circular or spiraling motifs that give the impression of symbolic encoding. Ensure overall symmetry and flow across the page, with attention to horizontal visual cadence and micro-level variation.
+
+Style influences: ancient glyph systems, vector engraving, modular UI patterning, mystical script art.
+
+Use this template for stylizing any [SUBJECT]—whether objects, symbols, creatures, or invented icons—while preserving the encoded, historical, and graphic storytelling tone.
