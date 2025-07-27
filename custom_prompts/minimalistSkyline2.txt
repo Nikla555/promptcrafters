@@ -1,0 +1,9 @@
+```
+Create a minimalist 16:9 landscape featuring [SUBJECT] as the central compositional element. Maintain a horizontally layered scene with sharp-edged silhouettes forming the foreground, midground, and background. Each layer should use flat, solid color fills—no gradients for shapes—emphasizing clean geometry and contrast.
+
+The sky should feature a soft gradient from warm orange tones (#FF6A00 to #FFD080), with a perfect circular sun placed in the upper-right quadrant. The sun must have a flat fill and no glow. Prioritize strong silhouette layering from darkest (foreground) to lightest (background) to create clear visual depth.
+
+Avoid any realistic rendering, texture, or shading. Instead, rely solely on color contrast, shape simplicity, and layered composition. The scene should feel serene yet bold, with ample negative space and horizontal flow.
+
+Style influence: modern poster design, geometric abstraction, screen-printed zines, minimalist nature art.
+```
